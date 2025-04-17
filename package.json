@@ -1,11 +1,12 @@
 {
   "name": "demo",
   "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "start": "./index.html"
+    "start": "node index.html"
   },
   "keywords": [],
-  "author": "Jane Doe",
+  "author": "Chandara",
   "license": "ISC",
   "description": ""
 }
